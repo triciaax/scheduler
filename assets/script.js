@@ -10,5 +10,5 @@ $('#currentDay').text(now)
 function buildHourBlock(hour) {
     var hourBlock = $('<div>');
     hourBlock.addClass('styling goes here');
-    hourBlack.attr('id', `hour-${hour}`);
+    hourBlock.attr('id', `hour-${hour}`);
 }
