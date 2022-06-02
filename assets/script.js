@@ -7,4 +7,8 @@ const store = window.localStorage;
 $('#currentDay').text(now)
 
 //generate blocks for each hour of the day
-
+function buildHourBlock(hour) {
+    var hourBlock = $('<div>');
+    hourBlock.addClass('styling goes here');
+    hourBlack.attr('id', `hour-${hour}`);
+}
