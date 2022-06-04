@@ -85,3 +85,15 @@ body {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+
+  .background-past {
+    background-color: #E0E0E0;
+  }
+
+  .background-current{
+    background-color: #9DCCE3;
+  }
+
+  .background-future {
+    background-color: #FBAFD6;
+  }
