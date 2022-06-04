@@ -13,16 +13,16 @@ function buildHourBlock(hour) {
     `<form data-name="${hour}" class="row justify-content-center ${color(hour)}"></form>.`
   );
   var timeEl = $(
-    `<div class="col-2 ${color(hour)}">${timeString}</div>`
+    `<div class="col-lg-2 col-md-2 col-sm-3 ${color(hour)}">${timeString}</div>`
   );
 
   //text area for user input is below
   var textEl = $(
-    `<textarea name="${hour}" class="col-9 ${color(hour)}">${store.getItem(`store-${hour}`) || ""}</textarea>`
+    `<textarea name="${hour}" class="col-lg-9 col-md-8 col-sm-6 ${color(hour)}">${store.getItem(`store-${hour}`) || ""}</textarea>`
   );
 
   //save button and functionality for user is below
-  var saveEl = $(`<button class="btn btn-dark col-1" type="submit">Save</button>`);
+  var saveEl = $(`<button class="btn btn-dark col-lg-1 col-md-2 col-sm-3" type="submit">Save</button>`);
   hourBlock.submit(function(e) {
     var hour = $(this).data('name');
     var text = $(this).find('textarea').val();

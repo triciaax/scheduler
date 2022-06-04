@@ -1,6 +1,6 @@
 # Work Day Scheduler Starter Code
 ## About
-This is a work day scheduler application to help users add important events to a daily planner. In this application, users can add events to specific time blocks and save their changes. Events are color coded to indicate if the event is in the past, future, or present. 
+This is a work day planning application to help users plan and schedule important events. In this application, users can add events to specific time blocks and save their changes for the current day. Events are color coded to indicate if the event is in the past, future, or present. 
 
 ## Color Scheme
 <img valign='middle' alt='grey' src='https://readme-swatches.vercel.app/E0E0E0?style=circle'/> = Past
@@ -13,5 +13,7 @@ This is a work day scheduler application to help users add important events to a
 3. To save your changes, click on the "save" button to the right of the time block.
    
 ## Screenshots
+![preview of application](assets/Scheduler%20Preview.png)
 
-## Links
+## Links to Application
+https://triciaax.github.io/scheduler/
