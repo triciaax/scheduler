@@ -12,7 +12,7 @@ This is a work day planning application to help users plan and schedule importan
 2. To add an event, click on time block and add your event title and details
 3. To save your changes, click on the "save" button to the right of the time block.
    
-## Screenshots
+## Screenshot
 ![preview of application](assets/Scheduler%20Preview.png)
 
 ## Links to Application
