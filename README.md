@@ -7,7 +7,7 @@ This is a work day planning application to help users plan and schedule importan
 <br><img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/9DCCE3?style=circle'/> = Present
 <br><img valign='middle' alt='pink' src='https://readme-swatches.vercel.app/FBAFD6?style=circle'/> = Future
   
-## How to use this
+## How to use this application.
 1. Land on the work day scheduler. You'll find the current date and see time blocks for each hour
 2. To add an event, click on time block and add your event title and details
 3. To save your changes, click on the "save" button to the right of the time block.
