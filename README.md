@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 ## About
 This is a work day planning application to help users plan and schedule important events. In this application, users can add events to specific time blocks and save their changes for the current day. Events are color coded to indicate if the event is in the past, future, or present. 
 
